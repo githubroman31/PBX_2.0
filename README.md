@@ -32,7 +32,7 @@
 Follow these 4 straightforward steps to deploy HellBot on Heroku:
 
 1. **Fork & Star this Repo:**
-    > Begin by [forking](https://github.com/Badhacker98/PBX_2.0/fork) and [starring](https://github.com/Badhacker98/PBX_2.0//) this repository on GitHub.
+    > Begin by [forking](https://github.com/githubroman31/PBX_2.0//fork) and [starring](https://github.com/githubroman31/PBX_2.0///) this repository on GitHub.
 
 2. **Heroku Account Login:**
    > Ensure you are logged into your [Heroku account](https://dashboard.heroku.com) before proceeding.
@@ -161,7 +161,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 </br>
 
 <h2 align="center">
-    Made with ❤️ by <a href="https://github.com/Badhacker98">Badmunda</a>
+    Made with ❤️ by <a href="https://github.com/githubroman31/PBX_2.0/">ROMAN</a>
 </h2>
 
 ---
